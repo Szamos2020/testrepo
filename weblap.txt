@@ -1,0 +1,8 @@
+UTF-8 (univerzális karakter készlet - mindent megjelenít)
+content="width=device-width, initial-scale=1.0" (az eszköz szélességének megfelelõen jelenik meg a weboldal, nincs nagyítás
+
+minden rész megnyitása: <...>
+lezárása</...>
+
+h1-6 (címsor)
+<p> </p>: paragrafus (bekezdés - minden új osrban kerül kiírásra)
